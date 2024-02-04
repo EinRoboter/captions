@@ -19,7 +19,7 @@
  },
  {
   "input": "And traditionally, I think the quadratic formula is one of the most famously memorized things in high school. ",
-  "translatedText": "Und traditionell denke ich, dass die quadratische Formel eines der bekanntesten Dinge ist, die man in der High School auswendig lernt. ",
+  "translatedText": "Und denke ich, dass die quadratische Formel traditionell eines der Dinge ist, die besonders bekannt dafür sind, dass man sie in der Schule auswendig lernt. ",
   "model": "nmt",
   "time_range": [
    8.36,
@@ -28,7 +28,7 @@
  },
  {
   "input": "We almost all kind of have this song that sings in our head related to it. ",
-  "translatedText": "Fast alle von uns haben dieses Lied, das in unserem Kopf singt und damit zusammenhängt. ",
+  "translatedText": "Fast alle von uns haben gewissermaßen dieses Lied, das in unserem Kopf spielt, das damit zusammenhängt. ",
   "model": "nmt",
   "time_range": [
    13.48,
@@ -37,7 +37,7 @@
  },
  {
   "input": "And yet, if you actually ask someone, how often do you expect you're going to be using this in the real world? ",
-  "translatedText": "Und doch, wenn Sie tatsächlich jemanden fragen, wie oft werden Sie dies Ihrer Meinung nach in der realen Welt verwenden? ",
+  "translatedText": "Und doch, wenn man tatsächlich jemanden fragt, 'Wie oft wird man sie Ihrer Meinung nach in der realen Welt verwenden?' ",
   "model": "nmt",
   "time_range": [
    17.42,
@@ -55,7 +55,7 @@
  },
  {
   "input": "Now what I want to do is give you guys a lesson regarding the quadratic formula that's a little bit different from the traditional approach. ",
-  "translatedText": "Jetzt möchte ich euch eine Lektion über die quadratische Formel erteilen, die sich ein wenig vom traditionellen Ansatz unterscheidet. ",
+  "translatedText": "Jetzt möchte ich euch eine Lektion über die quadratische Formel geben, die sich ein wenig vom traditionellen Ansatz unterscheidet. ",
   "model": "nmt",
   "time_range": [
    27.62,
@@ -64,7 +64,7 @@
  },
  {
   "input": "And the main thing I want to focus on is connecting it to other common patterns in math that are useful for general problem solving. ",
-  "translatedText": "Und das Wichtigste, worauf ich mich konzentrieren möchte, ist, es mit anderen gängigen Mustern in der Mathematik zu verbinden, die für die allgemeine Problemlösung nützlich sind. ",
+  "translatedText": "Und das Wichtigste, worauf ich mich konzentrieren möchte, ist, sie mit anderen gängigen Mustern in der Mathematik zu verbinden, die für allgemeine Problemlösung nützlich sind. ",
   "model": "nmt",
   "time_range": [
    33.66,
@@ -73,7 +73,7 @@
  },
  {
   "input": "Now the tactic that I'm going to talk through, it's not the usual completing the squares bit that some people will learn in high school. ",
-  "translatedText": "Die Taktik, die ich nun besprechen werde, ist nicht das übliche Ausfüllen der Quadrate, das manche Leute in der High School lernen werden. ",
+  "translatedText": "Die Taktik, die ich nun besprechen werde, ist nicht die übliche quadratische Ergänzung, die manche Leute in der Schule lernen. ",
   "model": "nmt",
   "time_range": [
    41.44,
@@ -82,7 +82,7 @@
  },
  {
   "input": "And when you learn that, you often think, okay, in principle, I could re-derive the quadratic formula, but frankly, it's going to be a bit of a pain. ",
-  "translatedText": "Und wenn man das lernt, denkt man oft: Okay, im Prinzip könnte ich die quadratische Formel neu herleiten, aber ehrlich gesagt wird es ein bisschen mühsam sein. ",
+  "translatedText": "Und wenn man es lernt, denkt man oft: Okay, im Prinzip könnte ich die quadratische Formel neu herleiten, aber ehrlich gesagt wird es ein bisschen mühsam sein. ",
   "model": "nmt",
   "time_range": [
    46.88,
@@ -100,7 +100,7 @@
  },
  {
   "input": "For those of you who don't know him, he has a YouTube channel, but more than that, he's the coach of the USIMO team, and he has a company called X-Pi, does a lot of great math stuff. ",
-  "translatedText": "Für diejenigen unter Ihnen, die ihn nicht kennen: Er hat einen YouTube-Kanal, aber darüber hinaus ist er der Trainer des USIMO-Teams und hat eine Firma namens X-Pi, die viele tolle Mathe-Sachen macht. ",
+  "translatedText": "Für diejenigen unter euch, die ihn nicht kennen: Er hat einen YouTube-Kanal, aber darüber hinaus ist er der Trainer des USIMO-Teams und hat eine Firma namens X-Pi, er macht viele tolle Mathe-Sachen. ",
   "model": "nmt",
   "time_range": [
    59.74,
@@ -109,7 +109,7 @@
  },
  {
   "input": "So he talked about kind of an alternate way that we could teach the quadratic formula. ",
-  "translatedText": "Also sprach er über eine Art alternative Möglichkeit, wie wir die quadratische Formel lehren könnten. ",
+  "translatedText": "Er hat über eine alternative Möglichkeit gesprochen, wie man die quadratische Formel lehren könnte. ",
   "model": "nmt",
   "time_range": [
    68.74,
@@ -118,7 +118,7 @@
  },
  {
   "input": "The way I'm going to talk about it is a little bit different from how he did, but certainly very similar in spirit. ",
-  "translatedText": "Die Art und Weise, wie ich darüber sprechen werde, unterscheidet sich ein wenig von der Art und Weise, wie er es getan hat, ist aber im Geiste sicherlich sehr ähnlich. ",
+  "translatedText": "Die Art und Weise, wie ich darüber sprechen werde, unterscheidet sich ein wenig davon, wie er es getan hat, ist aber im Sinne sehr ähnlich. ",
   "model": "nmt",
   "time_range": [
    72.74,
@@ -127,7 +127,7 @@
  },
  {
   "input": "Again, the upshot that I want you guys to come away with is the fact that you should connect this to other common patterns in math so as to make yourself a better problem solver. ",
-  "translatedText": "Auch hier möchte ich, dass Sie zu dem Ergebnis kommen, dass Sie dies mit anderen gängigen Mustern in der Mathematik verbinden sollten, um sich selbst zu einem besseren Problemlöser zu machen. ",
+  "translatedText": "Wie gesagt, möchte ich, dass ihr zu dem Ergebnis kommt, dass man dies mit anderen gängigen Mustern in der Mathematik verbinden sollte, um sich selbst zu einem besseren Problemlöser zu machen. ",
   "model": "nmt",
   "time_range": [
    77.46,
@@ -136,7 +136,7 @@
  },
  {
   "input": "And that should be the main takeaway lesson for, you know, this particular topic. ",
-  "translatedText": "Und das sollte die wichtigste Lektion für dieses spezielle Thema sein. ",
+  "translatedText": "Und das sollte die wichtigste Lektion für dieses Thema sein. ",
   "model": "nmt",
   "time_range": [
    86.0,
@@ -145,7 +145,7 @@
  },
  {
   "input": "Now, these lectures in general, I'm going to be shooting for something roughly on the order of an hour for each one of them, and the dynamic that I'm going for is one where there's questions that I'm asking the audience, and then the audience interacts with it in a very, well, in a very live way. ",
-  "translatedText": "Nun, bei diesen Vorträgen im Allgemeinen werde ich für jeden einzelnen etwa eine Stunde einplanen, und die Dynamik, die ich anstrebe, ist eine, bei der es Fragen gibt, die ich dem Publikum stelle , und dann interagiert das Publikum auf sehr, nun ja, sehr lebendige Weise damit. ",
+  "translatedText": "Nun, bei diesen Vorträgen im Allgemeinen werde ich für jeden etwa eine Dauer von einer Stunde planen, und die Dynamik, die ich anstrebe, ist eine, bei der es Fragen gibt, die ich dem Publikum stelle, mit welchen das Publikum dann sehr, nun ja, sehr live interagiert. ",
   "model": "nmt",
   "time_range": [
    91.14,
@@ -154,7 +154,7 @@
  },
  {
   "input": "Now, the thing about live stuff, though, is sometimes it doesn't go the way that you intended. ",
-  "translatedText": "Die Sache mit Live-Sachen ist jedoch, dass sie manchmal nicht so laufen, wie Sie es beabsichtigt haben. ",
+  "translatedText": "Das Ding mit Live-Sachen ist jedoch, dass sie manchmal nicht so laufen, wie man es beabsichtigt hat. ",
   "model": "nmt",
   "time_range": [
    106.02,
@@ -163,7 +163,7 @@
  },
  {
   "input": "So the general technology that we're going to have for this is going to involve me pulling up some kind of question, like, for example, right here, the question is asking kind of facetiously about your relationship with the quadratic formula, and I even had this going over the intro animation for you guys. ",
-  "translatedText": "Die allgemeine Technologie, die wir dafür haben werden, wird also beinhalten, dass ich eine Art Frage aufwerfe, wie zum Beispiel hier, die Frage fragt irgendwie scherzhaft nach Ihrer Beziehung zur quadratischen Formel und zu mir Ich habe sogar die Intro-Animation für euch durchgesehen. ",
+  "translatedText": "Die allgemeine Technik, die wir dafür benutzen werden, wird also daraus bestehen, dass ich eine Frage stelle, wie zum Beispiel hier, diese Frage fragt eher scherzhaft nach eurer Beziehung zur quadratischen Formel und ich habe das für euch sogar über die Intro-Animation gelegt. ",
   "model": "nmt",
   "time_range": [
    110.58,
@@ -172,7 +172,7 @@
  },
  {
   "input": "And then what you see is the statistics associated with what the answers, you know, other people are entering are, and they'll kind of get overlaid. ",
-  "translatedText": "Und was Sie dann sehen, sind die Statistiken zu den Antworten, die andere Leute eingeben, und sie werden irgendwie überlagert. ",
+  "translatedText": "Und was man dann sieht, sind die Statistiken zu den Antworten, die die anderen Leute geben, und die werden gewissermaßen darüber gelegt. ",
   "model": "nmt",
   "time_range": [
    126.54,
@@ -199,7 +199,7 @@
  },
  {
   "input": "We don't know what the most common answer was, but at some point I can choose to grade that, and then we'll see. ",
-  "translatedText": "Wir wissen nicht, was die häufigste Antwort war, aber irgendwann kann ich entscheiden, das zu benoten, und dann werden wir sehen. ",
+  "translatedText": "Wir wissen nicht, was die häufigste Antwort war, aber irgendwann kann ich entscheiden, es zu bewerten, und dann werden wir es sehen. ",
   "model": "nmt",
   "time_range": [
    137.5,
@@ -208,7 +208,7 @@
  },
  {
   "input": "Except for the fact that it looks like there's quite a few of you guys, and it is giving our servers a little bit of trouble. ",
-  "translatedText": "Abgesehen von der Tatsache, dass es so aussieht, als wären ziemlich viele von euch da, und das bereitet unseren Servern ein wenig Ärger. ",
+  "translatedText": "Abgesehen von der Tatsache, dass es so aussieht, als wären ziemlich viele von euch da, und das unseren Servern ein bisschen Schwierigkeiten bereitet. ",
   "model": "nmt",
   "time_range": [
    142.86,
@@ -217,7 +217,7 @@
  },
  {
   "input": "So we have a couple people who are going to be working on that in the background. ",
-  "translatedText": "Wir haben also ein paar Leute, die im Hintergrund daran arbeiten werden. ",
+  "translatedText": "Wir haben ein paar Leute, die im Hintergrund daran arbeiten werden. ",
   "model": "nmt",
   "time_range": [
    148.08,
@@ -235,7 +235,7 @@
  },
  {
   "input": "For future streams, this will hopefully be a much more dynamic situation where as you answer, we're kind of grading it and you see how it's going. ",
-  "translatedText": "Für zukünftige Streams wird dies hoffentlich eine viel dynamischere Situation sein, in der wir, während Sie antworten, eine Art Bewertung vornehmen und Sie sehen, wie es läuft. ",
+  "translatedText": "Für zukünftige Streams wird dies hoffentlich eine viel dynamischere Situation sein, in der wir, während ihr antwortet, eine Art Bewertung vornehmen und ihr seht, wie es läuft. ",
   "model": "nmt",
   "time_range": [
    156.7,
@@ -244,7 +244,7 @@
  },
  {
   "input": "For this particular one, who knows? ",
-  "translatedText": "Für diesen besonderen, wer weiß? ",
+  "translatedText": "Für diesen gerade, wer weiß? ",
   "model": "nmt",
   "time_range": [
    163.96,
@@ -253,7 +253,7 @@
  },
  {
   "input": "Some magic might happen halfway through. ",
-  "translatedText": "Etwas Magie könnte auf halbem Weg passieren. ",
+  "translatedText": "Vielleicht geschieht mittendrin etwas Magie. ",
   "model": "nmt",
   "time_range": [
    165.46,
@@ -262,7 +262,7 @@
  },
  {
   "input": "But there's a lot of excitement among you guys right now, which is awesome, and I love that. ",
-  "translatedText": "Aber im Moment herrscht bei euch viel Aufregung, das ist großartig und ich liebe das. ",
+  "translatedText": "Aber im Moment herrscht bei euch viel Aufregung, was großartig ist und ich liebe es. ",
   "model": "nmt",
   "time_range": [
    167.38,
@@ -271,7 +271,7 @@
  },
  {
   "input": "And let's see if we can translate that into some of the math itself. ",
-  "translatedText": "Und mal sehen, ob wir das in einen Teil der Mathematik selbst übersetzen können. ",
+  "translatedText": "Und mal sehen, ob wir das auch auf einen Teil der Mathematik selbst übersetzen können. ",
   "model": "nmt",
   "time_range": [
    171.7,
@@ -289,7 +289,7 @@
  },
  {
   "input": "And when we were doing this a little bit earlier with a couple people, for sure the most common answer was zero. ",
-  "translatedText": "Und als wir das etwas früher mit ein paar Leuten gemacht haben, war die häufigste Antwort sicherlich Null. ",
+  "translatedText": "Und als wir das davor mit ein paar Leuten gemacht haben, war die häufigste Antwort sicherlich Null. ",
   "model": "nmt",
   "time_range": [
    181.56,
@@ -298,7 +298,7 @@
  },
  {
   "input": "Zero times is when I think I'll use the quadratic formula outside of school. ",
-  "translatedText": "Nullmal denke ich, dass ich außerhalb der Schule die quadratische Formel verwenden werde. ",
+  "translatedText": "Nullmal, denke ich, werde ich die quadratische Formel außerhalb der Schule verwenden. ",
   "model": "nmt",
   "time_range": [
    187.76,
@@ -307,7 +307,7 @@
  },
  {
   "input": "And a funny story about that, I actually was once giving this talk at Pixar where I brought it up as this example of something that we teach every student, and it's unclear why. ",
-  "translatedText": "Und eine lustige Geschichte dazu: Ich habe diesen Vortrag tatsächlich einmal bei Pixar gehalten, wo ich ihn als Beispiel für etwas angeführt habe, das wir jedem Schüler beibringen, und es ist unklar, warum. ",
+  "translatedText": "Und eine lustige Geschichte dazu: Ich habe diesen Vortrag tatsächlich einmal bei Pixar gehalten, wo ich es als Beispiel für etwas angeführt habe, das wir jedem Schüler beibringen, und es nicht klar ist, warum. ",
   "model": "nmt",
   "time_range": [
    191.62,
@@ -316,7 +316,7 @@
  },
  {
   "input": "They're not going to use it. ",
-  "translatedText": "Sie werden es nicht nutzen. ",
+  "translatedText": "Sie werden es nicht benutzen. ",
   "model": "nmt",
   "time_range": [
    202.42,
@@ -325,7 +325,7 @@
  },
  {
   "input": "And I should have known better than to say this to a bunch of engineers at Pixar, because one of them looked at me and he was like, oh, I'll have you know, I actually use the quadratic formula all the time. ",
-  "translatedText": "Und ich hätte es besser wissen sollen, als das einem Haufen Ingenieure bei Pixar zu sagen, denn einer von ihnen schaute mich an und sagte: „Oh, ich möchte Sie wissen lassen, dass ich tatsächlich ständig die quadratische Formel verwende.“ Sein Name war Tim Babb, und er hat mir freundlicherweise im Grunde genommen ein Storyboard für ein Video geschickt, etwas, von dem ich glaube, dass er mich darauf aufmerksam gemacht hat. ",
+  "translatedText": "Und ich hätte es besser wissen sollen, als das einem Haufen Ingenieure bei Pixar zu sagen, denn einer von ihnen schaute mich an und sagte: 'Oh, ich muss dir sagen, dass ich die quadratische Formel tatsächlich ständig verwende.' ",
   "model": "nmt",
   "time_range": [
    203.16,
@@ -334,7 +334,7 @@
  },
  {
   "input": "His name was Tim Babb, and he very kindly sent over basically a storyboard for a video, something I think he was pitching me on. ",
-  "translatedText": "",
+  "translatedText": "Sein Name war Tim Babb und er hat mir freundlicherweise im Grunde genommen ein Storyboard für ein Video geschickt, etwas, von dem ich glaube, dass er mich darauf aufmerksam gemacht hat. ",
   "model": "nmt",
   "time_range": [
    214.4,
